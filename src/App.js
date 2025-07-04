@@ -11,7 +11,7 @@ import { Cart } from './components/Cart'
 const App = () => {
   return (
     <>
-      <Router>
+      <Router basename="/smarteducation">
         <Header />
         <Main />
         <Footer />
