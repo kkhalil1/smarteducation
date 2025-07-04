@@ -1,0 +1,7 @@
+{
+  "EMPTY": "/",
+  "HOME": "/Home",
+  "PRODUCTS": "/products",
+  "PRODUCTS_DETAILS": "/product/:id",
+  "CHECKOUT": "/checkout"
+}
